@@ -222,7 +222,7 @@ This project is useful for:
 
 # 👨‍💻 Author
 
-Bablu Shaw
+Bablu kumar
 
 ---
 
